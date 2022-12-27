@@ -1,0 +1,25 @@
+.link a:link{
+    color: red;
+    text-decoration:underline ;
+    background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+.visited a:visited{
+text-decoration: underline;
+background-color: #f44336;
+
+}
+.hover a:hover{
+    color: aqua;
+    background-color: blueviolet;
+    text-decoration: none;
+}
+.active a:active{
+    color:aquamarine;
+    text-decoration: wavy;
+
+}

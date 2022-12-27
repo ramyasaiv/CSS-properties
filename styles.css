@@ -1,0 +1,71 @@
+ body{
+    background-color: aliceblue;
+ }
+ 
+ /* this is asingle line comment*/
+ p
+ {
+    color:blue;
+    font-size: medium;
+}
+#para1
+{
+    color:red;
+}
+.center
+{
+    background-color: bisque;
+}
+h3,h4{
+    font-weight:bold;
+    color: yellowgreen;
+}
+#para2{
+    background-color: aqua;
+    color:rgb(247, 18, 247);
+    border:2px solid tomato;
+}
+.dotted{    
+    border-style: dotted ;
+    border-width: 6px;
+}
+.dashed
+{
+    border-style: dashed;
+    border-width: thick;
+    border-color: black;
+}
+.solid{
+    border-style: solid;
+    border-width: thin;
+    border-color: blueviolet;
+}
+.double{
+    border-style: double;
+    border-width: medium;
+    border-color: chartreuse;
+}
+.groove{
+    border-style: groove;
+}
+.ridge{
+    border-style: ridge;
+}
+.inset{ 
+    border-style: inset;
+}
+.outset{
+    border-style: outset;
+}
+.none{
+    border-style: none;
+}
+.hidden{
+    border-style: hidden;
+}
+.mix{
+    border-style: dotted dashed solid double;
+ } 
+
+ 
+

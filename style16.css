@@ -1,0 +1,23 @@
+p{
+    background: #4CAF50;
+  color: white;
+  padding: 15px;
+  width: 50%;
+  height: 100px;
+  overflow: scroll;
+  border: 1px solid #ccc;
+}
+div{
+    background-color: coral;
+    width: 200px;
+    height: 65px;
+    border: 1px solid;
+    overflow: visible;
+}
+.hidden {
+    background-color: rgb(109, 32, 4);
+    width: 200px;
+    height: 65px;
+    border: 1px solid black;
+    overflow: hidden;
+}
